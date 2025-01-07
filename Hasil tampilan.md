@@ -1,0 +1,8 @@
+![LOGIN](https://github.com/user-attachments/assets/2571753a-5264-40a9-b78b-c12b2d2c81ae)
+![DAFTAR EVENTS](https://github.com/user-attachments/assets/bc029cd9-4ba2-45b6-a53e-5225e239f054)
+![HOME](https://github.com/user-attachments/assets/4677555b-ca96-403f-9bd9-df07fc1e71f8)
+![cari](https://github.com/user-attachments/assets/02d5943f-a070-4c5c-bb14-d7e82ce5684d)
+![tambah](https://github.com/user-attachments/assets/e8ca1c58-d13f-4b1b-8c6e-85790cd156cd)
+![Edit](https://github.com/user-attachments/assets/a43c316c-04f9-4797-b91a-2bb7778891c8)
+![delete](https://github.com/user-attachments/assets/973b752f-49e6-475d-981d-8fc992e6241b)
+![logout](https://github.com/user-attachments/assets/c9c131d6-57be-4fef-8793-16abf1bac310)
